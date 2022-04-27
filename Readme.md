@@ -1,0 +1,1 @@
+## Basic Nodejs project for docker multi-stage and builder pattern demonstration.
