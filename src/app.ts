@@ -9,5 +9,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   return console.log(`Express is listening at http://localhost:${port}`);
 });
-
-#asd
